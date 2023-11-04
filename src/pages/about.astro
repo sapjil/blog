@@ -1,0 +1,61 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+  title='About Me'
+  description='Lorem ipsum dolor sit amet'
+  pubDate={new Date('2023-11-02')}
+>
+  <div class='post-outer'>
+    <p class='center'>
+      <img
+        src='https://farm9.staticflickr.com/8638/16119247417_6274a1e591_o.png'
+        alt=''
+      />
+    </p>
+    <p>프리랜서 Markup Engineer(퍼블리셔)입니다.</p>
+    <p>
+      삽질이 필요한 경우도 물론 있지만, 불필요한 삽질은 정신을 피폐하게 만드는
+      경우가 종종있습니다. 주로 초보자가 사이트를 제작하는데 필요한 각종
+      정보들을 비정기적으로 공유하여 <strong
+        >SAPJIL에 도움이 되는 정보를 공유</strong
+      >하고자 하며, 공부중인 내용등에 대해서도 다루어 보려 하고 있습니다.
+    </p>
+
+    <h2>Blog Update</h2>
+    <ul>
+      <li>
+        2023-11-03 <a href='blog/change-astro/'
+          >블로그를 Gridsome에서 Astro로 변경</a
+        >
+      </li>
+      <li>
+        2020-01-14 <a href='blog/changed-gridsome/'
+          >블로그를 hexo에서 Gridsome로 변경</a
+        >
+      </li>
+      <li>
+        2019-03-13 <a href='blog/blogmove/'
+          >블로그를 WordPress에서 Github + hexo로 변경</a
+        >
+      </li>
+      <li>2016-07-25 문제 해결시 기록을 위하여 solve 카테고리 생성</li>
+      <li>
+        2016-07-22 블로그 출력 형식 변경. 방문자 댓글에 disqus 서비스 적용
+      </li>
+      <li>2015-01-18 블로그 시작</li>
+    </ul>
+
+    <h2>연락처</h2>
+    <a href='http://twitter.com/sapjilnet'>@sapjilnet</a>(Twitter)
+  </div>
+</Layout>
+
+<style>
+  .center {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 1rem;
+  }
+</style>

@@ -1,0 +1,25 @@
+{
+  "parser": {
+    "\\.astro$": "@markuplint/astro-parser"
+  },
+  "extends": [
+    "markuplint:recommended"
+  ],
+  "excludeFiles": [
+    "./node_modules/**/*"
+  ],
+  "rules": {
+    "required-attr": true
+  },
+  "nodeRules": [
+    {
+      "selector": "img",
+      "rules": {
+        "required-attr": [
+          "src",
+          "alt"
+        ]
+      }
+    }
+  ]
+}
