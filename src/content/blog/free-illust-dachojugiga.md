@@ -1,23 +1,7 @@
 ---
 title: 공짜로 사용가능한 일본풍 무료 일러스트 - ダ鳥獣ギ画
 pubDate: 2017-05-07
-tags:
-  [
-    '일본',
-    '조수인물기화',
-    '鳥獣人物戯画',
-    '다조수기화',
-    'ダ鳥獣ギ画',
-    'DACHOJU-GIGA',
-    '일러스트',
-    '무료',
-    '공짜',
-    '삽질',
-    'design',
-    'freebie',
-    'illust',
-    'sapjil',
-  ]
+tags: 일본, 조수인물기화, 鳥獣人物戯画, 다조수기화, ダ鳥獣ギ画, DACHOJU-GIGA, 일러스트, 무료, 공짜, 삽질, design, freebie, illust, sapjil
 description: 일본에서 가장 오래된 만화라고 알려져 있는 조수인물기화(鳥獣人物戯画)에서 사용된 동물들의 화풍을 사용하여 제작된 개구리, 토끼등의 다양한 무료 일러스트로 제공하고 있는 ダ鳥獣ギ画(DACHOJU-GIGA)사이트를 소개합니다.
 categories:
   - freebie

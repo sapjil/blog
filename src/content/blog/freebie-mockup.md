@@ -1,7 +1,7 @@
 ---
 title: 입체적으로 각도가 살아있는 dealjumbo 제공의 Mockup PSD
 pubDate: 2015-02-06
-tags: ['목업', '무료', 'free', 'freebie', 'mockup', 'psd']
+tags: 목업, 무료, free, freebie, mockup, psd
 description: 입체적으로 각도가 살아있는 dealjumbo 제공의 Mockup PSD파일 - Zero Gravity Stage Generator - Free Version
 categories:
   - freebie

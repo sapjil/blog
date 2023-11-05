@@ -1,21 +1,7 @@
 ---
 title: 모바일 웹페이지 디버깅에 적합한 weinre
 pubDate: 2016-01-01
-tags:
-  [
-    '모바일',
-    '웹페이지',
-    '디버깅',
-    '노드JS',
-    'iPhone',
-    'Android',
-    'Debugging',
-    'weinre',
-    'mobile',
-    'web page',
-    'nodejs',
-    'sapjil',
-  ]
+tags: 모바일, 웹페이지, 디버깅, 노드JS, iPhone, Android, Debugging, weinre, mobile, web page, nodejs, sapjil
 description: 모바일 웹페이지를 작업할 경우, node.js기반의 weinre를 사용하게 되면 케이블을 연결할 필요도 없고 iPhone/Android의 OS나 여타 단말기 종류에도 제한을 받지 않는 방식으로 디버깅 작업이 가능합니다.
 categories:
   - coding

@@ -1,24 +1,7 @@
 ---
 title: 워드프레스 - 한글(2byte) 인식 문제
 pubDate: 2016-07-26
-tags:
-  [
-    '404',
-    'error',
-    'url',
-    'search',
-    'htaccess',
-    'search console',
-    ' googlebot',
-    'crawling errors',
-    'solve',
-    '크롤링 에러',
-    '구글 봇',
-    '서치콘솔',
-    '에러 페이지',
-    'URL오류',
-    '문제해결',
-  ]
+tags: 404, error, url, search, htaccess, search console, googlebot, crawling errors, solve, 크롤링 에러, 구글 봇, 서치콘솔, 에러 페이지, URL오류, 문제해결
 description: 한글(2byte)의 특성으로 생기는 문제라고 생각되는 구글 Search Console에서 크롤링오류가 있었습니다. URL오류의 문제를 인식하는 부분에서 생기는 것으로 파악되었으며, htaccess의 수정으로 일부 해결할 수 있었습니다.
 categories:
   - solve

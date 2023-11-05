@@ -1,7 +1,7 @@
 ---
 title: CSS3로 가능한 움직임을 쉽게 찾아보고 사용할 수 있는 AniCollection
 pubDate: 2015-04-05
-tags: ['anicollection', 'coding', 'css3', 'animation']
+tags: anicollection, coding, css3, animation]
 description: CSS3로 표현 가능한 애니메이션을 손쉽게 찾아보고 실제로 움직임을 확인, 마음에 들 경우 바로 소스를 확인하여 사용할 수 있는 서비스
 categories:
   - coding

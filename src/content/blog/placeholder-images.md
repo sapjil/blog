@@ -1,23 +1,7 @@
 ---
 title: 샘플이미지를 간단하게 삽입하기 - Placeholder images
 pubDate: 2016-07-21
-tags:
-  [
-    'placeimg',
-    'ipsumimage',
-    'placehold',
-    'lorem ipsum',
-    'demo',
-    'generator',
-    'placeholder image',
-    'random image',
-    'sample image',
-    'dummy image',
-    '랜덤 이미지',
-    '더미 이미지',
-    '샘플 이미지',
-    '무료',
-  ]
+tags: placeimg, ipsumimage, placehold, lorem ipsum, demo, generator, placeholder image, random image, sample image, dummy image, 랜덤 이미지, 더미 이미지, 샘플 이미지, 무료
 description: 데모사이트를 만들때 분위기를 맞추기 위하여 이미지툴로 무의미한 이미지를 제작하거나 웹상에서 아무 이미지나 다운받아 사용하곤 했다면 간편하게 사용가능한 Placeholder images 서비스를 사용하여 보시기 바랍니다.
 categories:
   - www

@@ -1,24 +1,7 @@
 ---
 title: 11만원 상당의 유료폰트가 기간한정으로 무료 다운로드 가능! 놓치지 마세요!
 pubDate: 2018-02-02
-tags:
-  [
-    'bundle',
-    'design',
-    'font',
-    'free',
-    'free font',
-    'freebie',
-    'sapjil',
-    '공짜',
-    '다운로드',
-    '무료',
-    '무료폰트',
-    '번들',
-    '손글씨체',
-    '스크립트체',
-    '필기체',
-  ]
+tags: bundle, design, font, free, free font, freebie, sapjil, 공짜, 다운로드, 무료, 무료폰트, 번들, 손글씨체, 스크립트체, 필기체
 description: 2018년 2월 26일까지 총액 $104의 유료폰트 번들을 무료 다운로드! 총액 11만원 상당의 유료폰트를 무료로 다운받을 수 있는 기회를 놓치지 마시기 바랍니다. 이번 기회를 놓치지 마세요!
 categories:
   - freebie

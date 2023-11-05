@@ -1,27 +1,7 @@
 ---
 title: 생각보다 쉬운 Git 사용해보기
 pubDate: 2016-09-10
-tags:
-  [
-    '백업',
-    '버전관리',
-    '깃',
-    '깃허브',
-    '비트버킷',
-    '온라인',
-    '오프라인',
-    '커밋',
-    'commit',
-    'origin',
-    'reset',
-    'master',
-    'bitbucket',
-    'github',
-    'hard',
-    'push',
-    'init',
-    'ignore',
-  ]
+tags: 백업, 버전관리, 깃, 깃허브, 비트버킷, 온라인, 오프라인, 커밋, commit, origin, reset, master, bitbucket, github, hard, push, init, ignore
 description: 업무에서 백업용으로만 사용하던 git. 혼자서 작업할 경우 필요하다고 생각되는 생각보다 쉬운 사용법(?)을 정리해봤습니다.
 categories:
   - www

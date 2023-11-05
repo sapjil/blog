@@ -1,19 +1,7 @@
 ---
 title: 헤드라인에 적합해 보이는 - Bonkers
 pubDate: 2016-07-24
-tags:
-  [
-    'freebie',
-    'free',
-    'free font',
-    'Bonkers',
-    '무료 폰트',
-    '폰트',
-    '산세리프',
-    '포스터',
-    '이벤트',
-    '헤드라인',
-  ]
+tags: freebie, free, free font, Bonkers, 무료 폰트, 폰트, 산세리프, 포스터, 이벤트, 헤드라인
 description: 이벤트성 포스텅등의 타이틀에 적합해 보이는 산세리프 타입의 Bonkers 폰트를 소개합니다.
 categories:
   - freebie

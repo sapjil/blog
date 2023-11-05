@@ -1,18 +1,7 @@
 ---
 title: 앞으로의 배색은 인공지능에게 맡기는 시대 - Khroma
 pubDate: 2018-02-26
-tags:
-  [
-    'ai',
-    'color tool',
-    'design',
-    'generator',
-    'khroma',
-    '배색',
-    '생성기',
-    '인공지능',
-    '제네레이터',
-  ]
+tags: ai, color tool, design, generator, khroma, 배색, 생성기, 인공지능, 제네레이터
 description: 흔하지 않은 주방관련 아이콘 50가지가 PNG, SVG, EPS의 파일 형식으로 포함되어 있는 무료 아이콘을 소개합니다. 무료이기 때문에 개인, 상용에 관계없이 사용가능합니다. 조리기구나 식기등의 아이콘이 필요하다면 참고해 보시기 바랍니다.
 categories:
   - www

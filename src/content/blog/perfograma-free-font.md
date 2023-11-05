@@ -1,20 +1,7 @@
 ---
 title: 펀치로 구멍을 뚫어 놓은 느낌을 주는 무료폰트 - perfograma
 pubDate: 2015-12-26
-tags:
-  [
-    '폰트',
-    '무료',
-    '삽질',
-    '펀치',
-    '구멍',
-    'perfograma',
-    'free',
-    'font',
-    'sapjil',
-    'design',
-    'free font',
-  ]
+tags: 폰트, 무료, 삽질, 펀치, 구멍, perfograma, free, font, sapjil, design, free font
 description: perfograma는 구멍뚫는 펀치로 구멍을 뚫어 놓은 느낌을 주며 깔끔하게 디자인 되어 있어 호감이 가는 폰트로 명함이나 봉투등에 사용하면 뭔가 세련된 느낌을 줄 수 있을 것 같다는 생각이 듭니다.
 categories:
   - freebie

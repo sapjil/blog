@@ -1,17 +1,7 @@
 ---
 title: Gridsome을 Git Action으로 GitHub Pages에 배포하기
 pubDate: 2020-01-13
-tags:
-  [
-    '블로그',
-    '변경',
-    'Gridsome',
-    'Git Action',
-    '헥소',
-    'hexo',
-    'GitHub',
-    'GitHub Pages',
-  ]
+tags: 블로그,변경,Gridsome,Git Action,헥소,hexo,GitHub,GitHub Pages
 description: Git Action을 사용해서 Gridsomse을 GitHub Pages에 배포하는 과정을 다루고 있습니다. 새해를 맞이해서 Vue에 대해 공부해보겠다는 욕심으로 블로그를 hexo에서 Gridsome으로 변경해보면서 정리한 내용입니다.
 categories:
   - www

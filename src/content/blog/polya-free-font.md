@@ -1,19 +1,7 @@
 ---
 title: 폴리곤으로 만들어진 느낌을 주는 무료폰트 - POLYA
 pubDate: 2015-09-06
-tags:
-  [
-    'polya',
-    'poligon',
-    'free',
-    'freebie',
-    'font',
-    'free font',
-    '폴리곤',
-    '무료폰트',
-    '무료',
-    '3d',
-  ]
+tags: polya, poligon, free, freebie, font, free font, 폴리곤, 무료폰트, 무료, 3d
 description: POLYA라는 폴리곤으로 만들어진 느낌을 주는 무료폰트가 있어 소개해 봅니다. 파티같은 정신없는 분위기나 조금 미래적인 분위기에 사용하면 어울릴지도 모르겠습니다.
 categories:
   - freebie

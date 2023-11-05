@@ -1,20 +1,7 @@
 ---
 title: Copic Marker의 컬러를 모아둔 Photoshop용 Swatches - Copic Swatches
 pubDate: 2015-08-31
-tags:
-  [
-    'Copic',
-    'Marker',
-    'Color',
-    'Photoshop',
-    'Copic Marker',
-    'Swatches',
-    '코픽',
-    '마커',
-    '포토샵',
-    '스와치',
-    'Sapjil',
-  ]
+tags: Copic, Marker, Color, Photoshop, Copic Marker, Swatches, 코픽, 마커, 포토샵, 스와치, Sapjil
 description: 일러스트나 디자인 업계에서는 유명한 Copic Marker에서 제공하는 컬러를 Photoshop Swatches 로 만들어둔 Copic Swatches를 소개합니다.
 categories:
   - freebie

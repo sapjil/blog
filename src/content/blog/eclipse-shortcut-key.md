@@ -1,21 +1,7 @@
 ---
 title: 코딩의 작업효율을 올려주는 Eclipse 단축키
 pubDate: 2017-04-20
-tags:
-  [
-    'eclipse',
-    'Quick Search',
-    'shortcut key',
-    'coding',
-    'plugin',
-    'sapjil',
-    'shortcut',
-    '단축키',
-    '삽질',
-    '플러그인',
-    '확장기능',
-    '이클립스',
-  ]
+tags: eclipse, Quick Search, shortcut key, coding, plugin, sapjil, shortcut, 단축키, 삽질, 플러그인, 확장기능, 이클립스
 description: 몇년간 작업 하면서, 매일같이 사용하고 있는 Eclipse. 작업효율을 높이기에 단축키는 꼭 필요한 기능 중 한가지라 생각됩니다. 그중에서도 사용 빈도가 가장 높은, 하루도 빼먹지 않고 사용중인 단축키만 추려봤습니다.
 categories:
   - coding

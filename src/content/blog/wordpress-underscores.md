@@ -1,22 +1,7 @@
 ---
 title: Wordpress 테마, 기본요소만 다운받자 - Underscores
 pubDate: 2015-01-21
-tags:
-  [
-    'build',
-    'design',
-    'generator',
-    'theme',
-    'underscores',
-    'wordpress',
-    '_s',
-    '워드프레스',
-    '테마',
-    '생성',
-    '제네레이터',
-    '빌더',
-    '디자인',
-  ]
+tags: build, design, generator, theme, underscores, wordpress, _s, 워드프레스, 테마, 생성, 제네레이터, 빌더, 디자인
 description: 이웃나라 일본에서 フリー素材アイドル MIKA☆RIKA라는 재미난 기획의, 무료제공 이미지 사이트가 있어 소개해봅니다. 아이돌이 자신들을 홍보하는 차원에서 시작한 서비스이며, 단순 사진뿐만 아니라 몇가지 사운드파일도 제공하고 있습니다. 2017년12월31일까지 기간제한을 두고 있습니다만, 자신들의 로고를 표시할경우에는 기간제한이 없다고 합니다.
 categories:
   - coding

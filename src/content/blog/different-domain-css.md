@@ -1,18 +1,7 @@
 ---
 title: 도메인별 스타일(CSS) 지정하기
 pubDate: 2016-07-19
-tags:
-  [
-    'tip',
-    'css',
-    'html',
-    '팁',
-    '스타일시트',
-    '도메인',
-    'iframe',
-    'href',
-    'style sheet',
-  ]
+tags: tip, css, html, 팁, 스타일시트, 도메인, iframe, href, style sheet
 description: 스타일(CSS)을 도메인별로 지정하는 방법에 대하여 알아보겠습니다.
 categories:
   - coding

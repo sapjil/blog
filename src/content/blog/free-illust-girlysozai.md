@@ -1,26 +1,7 @@
 ---
 title: 여자여자스러운 분위기가 물씬 풍기는 무료 일러스트 - girlysozai
 pubDate: 2018-01-22
-tags:
-  [
-    'design',
-    'free',
-    'freebie',
-    'girlysozai',
-    'illust',
-    'sapjil',
-    '공짜',
-    '귀여운',
-    '무료',
-    '무료일러스트',
-    '부드러운',
-    '사랑스러운',
-    '삽질',
-    '소녀스러운',
-    '여성스러운',
-    '여자여자',
-    '일러스트',
-  ]
+tags: design, free, freebie, girlysozai, illust, sapjil, 공짜, 귀여운, 무료, 무료일러스트, 부드러운, 사랑스러운, 삽질, 소녀스러운, 여성스러운, 여자여자, 일러스트
 description: 2018년 2월 26일까지 총액 $104의 유료폰트 번들을 무료 다운로드! 총액 11만원 상당의 유료폰트를 무료로 다운받을 수 있는 기회를 놓치지 마시기 바랍니다. 이번 기회를 놓치지 마세요!
 categories:
   - freebie

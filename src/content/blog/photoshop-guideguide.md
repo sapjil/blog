@@ -1,7 +1,7 @@
 ---
 title: Photoshop에서 가이드라인 작업에 도움을 주는  - GuideGuide
 pubDate: 2015-01-20
-tags: ['extension', 'guide', 'guideguide', 'photoshop']
+tags: extension, guide, guideguide, photoshop
 description: 규칙적인 간격의 그리드를 그려야 할 경우 반복작업은 당연한 거고, 1px차이때문에 다시 계산해야 하는 경우도 생기는등, 짜증이 나기도 하는데 GuideGuide를 사용하면 어느정도는 편안해 질 수 있습니다. 수치만 제대로 입력하면 한번에 생성되는 가이드는 업무 속도를 어느정도는 개선시켜줄거라 생각됩니다.
 categories:
   - design

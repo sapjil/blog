@@ -1,19 +1,7 @@
 ---
 title: HTML의 Table 작업에 사용하기 편한 무료 에디터
 pubDate: 2019-05-19
-tags:
-  [
-    '테이블',
-    '에디터',
-    'table',
-    'html',
-    'bluegriffon',
-    'seamonkey',
-    'dreamweaver',
-    'free',
-    'editor',
-    'HTML5 Editor',
-  ]
+tags: 테이블, 에디터, table, html, bluegriffon, seamonkey, dreamweaver, free, editor, HTML5 Editor
 description: HTML의 Table을 손쉽게 만들 수 있는 무료 에디터를 알아봤습니다. 간단한 테이블이라면 유료인 Dreamweaver를 대체할 수 있는 프로그램들입니다.
 categories:
   - www

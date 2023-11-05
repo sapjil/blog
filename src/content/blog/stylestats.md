@@ -1,21 +1,7 @@
 ---
 title: 좀더 좋은 CSS를 만들기 위하여 StyleStats로 CSS 파일 분석하기
 pubDate: 2016-08-17
-tags:
-  [
-    'stylesheet',
-    'css',
-    'StyleStats',
-    'stats',
-    '통계',
-    '정보',
-    '분석',
-    '스타일시트',
-    '파악',
-    '유지관리',
-    '유지보수',
-    '품질관리',
-  ]
+tags: stylesheet, css, StyleStats, stats, 통계, 정보, 분석, 스타일시트, 파악, 유지관리, 유지보수, 품질관리
 description: CSS작업시 사용된 각종 정보를 분석하여 보여줍니다. 제공되는 Class, ID, Font Size등의 여러 통계정보를 파악하여 좀더 좋은 CSS 파일을 작성할 수 있게 도와주는 툴인 StyleStats에 대한 소개입니다.
 categories:
   - coding
