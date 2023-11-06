@@ -155,6 +155,12 @@ hr {
 	main {
 		padding: 1em;
 	}
+	nav {
+		flex-direction: column;
+		h2 {
+			padding-top: 1rem;
+		}
+	}
 }
 
 .sr-only {
