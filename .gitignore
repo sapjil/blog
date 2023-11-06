@@ -12,6 +12,7 @@ dist/
 
 .idea/
 .astro/
+.firebase
 
 TEST*.xml
 
