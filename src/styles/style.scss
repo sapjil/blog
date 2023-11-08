@@ -85,7 +85,7 @@ a {
 }
 a:hover {
 	color: var(--accent);
-	font-weight: 700;
+	// font-weight: 700;
 }
 p {
 	margin-bottom: 1em;
@@ -148,6 +148,16 @@ hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
 }
+nav {
+	a {
+		display: inline-block;
+		text-decoration: none;
+	}
+	a.active {
+		font-weight: bolder;
+		text-decoration: underline;
+	}
+}
 @media (max-width: 720px) {
 	body {
 		font-size: 18px;
@@ -184,3 +194,52 @@ hr {
 .post-tags {color: #999}
 .post-tags strong {color: #222}
 
+.list-item {
+	&:nth-child(1) {
+		.list-item-link {
+			.title, .date {}
+		}
+	}
+	&:nth-child(2) {
+		.list-item-link {
+			.title, .date {}
+		}
+	}
+	&:nth-child(3) {
+		.list-item-link {
+			.title, .date {}
+		}
+	}
+	&:nth-child(4) {
+		.list-item-link {
+			.title, .date {}
+		}
+	}
+	&:nth-child(5) {
+		.list-item-link {
+			.title, .date {}
+		}
+	}
+}
+
+
+.title {margin: 0 0.5rem 0 0;color: rgb(var(--black));}
+.date {color: rgb(var(--gray));display: inline-block;}
+ul li {align-items: center;flex-wrap: wrap}
+ul li:not(:first-child) {margin-top: .5rem}
+ul li a{line-height: 1.25}
+.list-item-link {
+	.title {
+		font-weight: 700;
+	}
+}
+// .list-item-link:hover .date{font-weight: normal}
+
+// a {
+// 	display: inline-block;
+// 	text-decoration: none;
+// }
+// a.active {
+// 	font-weight: bolder;
+// 	text-decoration: underline;
+// }

@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
+import Analytics from '../../components/Analytics.astro';
 
 const posts = (await getCollection('react')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -14,16 +15,8 @@ const posts = (await getCollection('react')).sort(
 <!doctype html>
 <html lang='ko'>
   <head>
+		<Analytics />
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-    <style>
-      main {width: 860px;}
-      .title {margin: 0 0.5rem 0 0;color: rgb(var(--black));}
-      .date {color: rgb(var(--gray));display: inline-block;}
-			ul li {align-items: center;flex-wrap: wrap}
-			ul li:not(:first-child) {margin-top: .5rem}
-			ul li a{line-height: 1.25}
-			.list-item-link:hover .date{font-weight: normal}
-    </style>
   </head>
   <body>
     <Header />
@@ -32,7 +25,7 @@ const posts = (await getCollection('react')).sort(
         <ul>
           {
             posts.map((post) => (
-              <li>
+							<li class="list-item">
                 <a href={`/react/${post.slug}/`} class="list-item-link">
 									<span class='title'>{post.data.title}</span>
 									<small class="date">(<FormattedDate date={post.data.pubDate} />)</small>
