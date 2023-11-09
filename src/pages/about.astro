@@ -1,11 +1,12 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import Layout from '../layouts/Base.astro';
 ---
 
 <Layout
   title='About'
   description='Lorem ipsum dolor sit amet'
-  pubDate={new Date('2023-11-02')}
+  pubDate={new Date('2015-01-18')}
+  updateDate={new Date('2023-11-02')}
 >
   <div class='post-outer'>
 		<p>Sapjil.net은 Astro를 사용하여 페이지 레이아웃을 관리하고 Github로 소스관리와 배포를 관리하며 Firebase에서 호스팅을 관리합니다.</p>
@@ -17,34 +18,24 @@ import Layout from '../layouts/BlogPost.astro';
     </p>
     <p>프리랜서 Markup Engineer(퍼블리셔)입니다.</p>
     <p>
-      삽질이 필요한 경우도 물론 있지만, 불필요한 삽질은 정신을 피폐하게 만드는
-      경우가 종종있습니다. 주로 초보자가 사이트를 제작하는데 필요한 각종
-      정보들을 공유하여 <strong
-        >SAPJIL에 도움이 되는 정보를 공유</strong
-      >하고자 하며, 공부중인 내용등에 대해서도 다루어 보려 하고 있습니다.
+      SAPJIL(삽질)이 필요한 경우도 물론 있지만, 불필요한 삽질은 정신을 피폐하게 만드는 경우가 종종있습니다. 삽질을 하고 난 뒤에 <strong
+        >나의 삽질이 누군가에게 도움이 되기를 바라며</strong
+      >, <del>꾸준히</del> 기억은 기록을 이길 수 없기에 기록을 이어 나가기 위한 곳입니다.
     </p>
 
     <h2>Blog Update</h2>
     <ul>
       <li>
-        2023-11-06 <a href='/react/'
-          >react.sapjil.net의 포스팅을 sapjil.net으로 이동</a
-        >
+        2023-11-06 react.sapjil.net의 포스팅을 sapjil.net으로 이동
       </li>
       <li>
-        2023-11-03 <a href='/blog/2023/change-astro/'
-          >블로그를 Gridsome에서 Astro로 변경</a
-        >
+        2023-11-03 블로그를 Gridsome에서 Astro로 변경
       </li>
       <li>
-        2020-01-14 <a href='/blog/2020/changed-gridsome/'
-          >블로그를 hexo에서 Gridsome로 변경</a
-        >
+        2020-01-14 블로그를 hexo에서 Gridsome로 변경
       </li>
       <li>
-        2019-03-13 <a href='/blog/2019/blogmove/'
-          >블로그를 WordPress에서 Github + hexo로 변경</a
-        >
+        2019-03-13 블로그를 WordPress에서 Github + hexo로 변경
       </li>
       <li><del>2016-07-25 문제 해결시 기록을 위하여 solve 카테고리 생성</del></li>
       <li>
