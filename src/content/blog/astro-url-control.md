@@ -1,9 +1,9 @@
 ---
-title: Astro 첫 삽질
+title: Astro URL 조정방법
 pubDate: 2023-11-09
-# updateDate: 2023-11-08
+updatedDate: 2023-11-10
 tags: Astro, sapjil, 삽질
-description: Astro 첫 삽질은 URL에서 /blog/를 없애기 위해 경로 문제를 해결하는 것이었다.
+description: Astro 첫 삽질은 URL에서 /blog/를 없애고 바로 포스팅 주소로 경로를 조정하는 것이었다.
 categories:
   - Astro
 # heroImage: '/blog-placeholder-2.jpg'

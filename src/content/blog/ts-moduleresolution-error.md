@@ -1,7 +1,7 @@
 ---
 title: Did you mean to set the 'moduleResolution' option ... 에러와 조우하다.
 pubDate: 2023-11-08
-# updateDate: 2023-11-08
+# updatedDate: 2023-11-08
 tags: paths, 타입스크립트, tsc, typescript, error, moduleResolution, nodenext
 description: 나의 첫 타입스크립트 오류, moduleResolution 설정으로 문제를 해결하다.
 categories:
