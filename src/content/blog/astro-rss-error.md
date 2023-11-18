@@ -1,6 +1,6 @@
 ---
 title: Invalid input (items)에러 메세지가 나왔다. rss.xml.js의 문제로 build 실패 후 해결
-pubDate: 2023-11-18  22:15:39
+pubDate: 2023-11-18
 # updatedDate: 2023-11-10
 tags: ['astro', 'Invalid input', 'rss.xml.js', '빌드 실패', 'error']
 description: description
