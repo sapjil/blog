@@ -14,7 +14,7 @@ tags:
     'style sheet',
   ]
 description: 스타일(CSS)을 도메인별로 지정하는 방법에 대하여 알아보겠습니다.
-categories: coding
+categories: css
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

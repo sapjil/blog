@@ -17,7 +17,7 @@ tags:
     'important',
   ]
 description: 무의미하게 사용하는 것 보다는 한번쯤 CSS 각각의 요소가 기본적으로 가지고 있는 우선순위를 고려하고, 높은 순서대로 적용된다는 점에 주의하면서 코딩을 한다면 !important를 사용하지 않고도 양질의 코딩이 가능하지 않을까 생각됩니다.
-categories: coding
+categories: css
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

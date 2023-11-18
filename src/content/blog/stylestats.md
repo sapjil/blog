@@ -17,7 +17,7 @@ tags:
     '품질관리',
   ]
 description: CSS작업시 사용된 각종 정보를 분석하여 보여줍니다. 제공되는 Class, ID, Font Size등의 여러 통계정보를 파악하여 좀더 좋은 CSS 파일을 작성할 수 있게 도와주는 툴인 StyleStats에 대한 소개입니다.
-categories: coding
+categories: css
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

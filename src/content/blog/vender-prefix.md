@@ -20,7 +20,7 @@ tags:
     'css',
   ]
 description: CSS3가 완전히 정착되면 없어질 것으로 예상되고 있는  벤더 프리픽스 (vendor prefix)는 각각의 브라우저에서 판독이 가능한 접두어를 붙여서 해당 브라우저에서 인식할 수 있게 하는 것을 지칭하고 있습니다. 개념과 사용법에 대하여 알아 보았습니다.
-categories: coding
+categories: css
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 
