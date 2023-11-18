@@ -1,10 +1,19 @@
 ---
 title: 저작권에 제한이 없는 아이돌 사진 제공 사이트 - MIKA☆RIKA
 pubDate: 2015-01-24
-tags: mikarika, freebee, license, royalty free, 무료, 포토, 라이센스, 공짜
+tags:
+  [
+    'mikarika',
+    'freebee',
+    'license',
+    'royalty free',
+    '무료',
+    '포토',
+    '라이센스',
+    '공짜',
+  ]
 description: 이웃나라 일본에서 フリー素材アイドル MIKA☆RIKA라는 재미난 기획의, 무료제공 이미지 사이트가 있어 소개해봅니다. 아이돌이 자신들을 홍보하는 차원에서 시작한 서비스이며, 단순 사진뿐만 아니라 몇가지 사운드파일도 제공하고 있습니다. 2017년12월31일까지 기간제한을 두고 있습니다만, 자신들의 로고를 표시할경우에는 기간제한이 없다고 합니다.
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

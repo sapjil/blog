@@ -1,8 +1,9 @@
 ---
 title: 리액트 코딩, 기본 중의 기본
-pubDate: 2023-03-16  09:16:51
-tags: blog, 리액트, react, js, jsx
+pubDate: 2023-03-16
+tags: ['blog', '리액트', 'react', 'js', 'jsx']
 description: 개인적으로 리액트를 사용하는데 알고 있어야 할 기본적인 코딩 기준에 관한 메모
+categories: react
 ---
 
 ## 시작은 했다. 시작은...

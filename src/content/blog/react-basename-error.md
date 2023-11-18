@@ -1,8 +1,9 @@
 ---
 title: (error) Cannot destructure property 'basename' of 'react~~.useContext(...)' as it is null.에러가 나왔을 때
-pubDate: 2023-06-10  11:56:02
-tags: blog, 리액트, react, js, error
+pubDate: 2023-06-10
+tags: ['blog', '리액트', 'react', 'js', 'error', 'basename', 'useContext']
 description: Cannot destructure property 'basename' of ... 관련 에러가 나올때 대응법
+categories: react
 ---
 
 ## basename property 관련 에러
@@ -31,7 +32,7 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-)
+);
 ```
 
 그리고 정상 작동하는 수정된 코드.
@@ -41,12 +42,12 @@ root.render(
 root.render(
   <React.StrictMode>
     <BrowserRouter>
-      {" "}
+      {' '}
       // BrowserRouter 추가
       <App />
     </BrowserRouter>
   </React.StrictMode>
-)
+);
 ```
 
 `BrowserRouter`로 감싸주니 해결되었다. 이로서 에러 해결 능력 스킬 +1

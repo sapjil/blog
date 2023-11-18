@@ -2,10 +2,9 @@
 title: Github Action으로 편리해진 Firebase 호스팅
 pubDate: 2023-11-04
 updatedDate: 2023-11-05
-tags: firebase, sapjil, hosting, 정적사이트
+tags: ['firebase', 'sapjil', 'hosting', '정적사이트']
 description: Github에서 사용하던 블로그를 firebase로 옮기면서 Action을 통해 사용하기 쉬워진 배포시스템의 덕을 볼 수 있었다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

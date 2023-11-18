@@ -1,8 +1,9 @@
 ---
 title: babel dependencies 문제
-pubDate: 2023-10-09  15:21:22
-tags: blog, 리액트, react, babel, dependencies, error
+pubDate: 2023-10-09
+tags: ['blog', '리액트', 'react', 'babel', 'dependencies', 'error']
 description: 거의 모든 문제의 해결법은 인터넷에 공개되어 있다.
+categories: react
 ---
 
 ## babel dependencies

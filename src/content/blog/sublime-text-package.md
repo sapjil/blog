@@ -1,10 +1,31 @@
 ---
 title: 코딩의 작업효율을 올려주는 Sublime Text Package
 pubDate: 2015-06-29
-tags: sublime text, 서브라임 텍스트, 패키지, 확장 기능, package, random text, plugin, 플러그인, sapjil, All Autocomplete, AutoFileName, Diffy, Emmet, GitGutter, Goto-CSS-Declaration, SCSS, SublimeLinter, Tag, BracketHighlighter, W3CValidators
+tags:
+  [
+    'sublime text',
+    '서브라임 텍스트',
+    '패키지',
+    '확장 기능',
+    'package',
+    'random text',
+    'plugin',
+    '플러그인',
+    'sapjil',
+    'All Autocomplete',
+    'AutoFileName',
+    'Diffy',
+    'Emmet',
+    'GitGutter',
+    'Goto-CSS-Declaration',
+    'SCSS',
+    'SublimeLinter',
+    'Tag',
+    'BracketHighlighter',
+    'W3CValidators',
+  ]
 description: Sublime Text Package중에서 작업효율을 올려주는 것들을 위주로 정리해 보았습니다. 익숙해지면 분명 작업시간이 단축되는 것을 체감하실 수 있을겁니다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

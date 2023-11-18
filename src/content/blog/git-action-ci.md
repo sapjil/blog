@@ -1,8 +1,21 @@
 ---
 title: Github Action + Firebase Hostiong
-pubDate: 2023-03-14  10:17:03
-tags: blog, 리액트, react, Github Action, Firebase Hostiong
+pubDate: 2023-03-14
+tags:
+  [
+    'blog',
+    '리액트',
+    'react',
+    'Github Action',
+    'Firebase Hostiong',
+    'Firebase',
+    'Hostiong',
+		'파이어베이스',
+		'호스팅',
+		'무료'
+  ]
 description: Github Action과 Firebase Hostion을 사용해서 자동 배포 설정
+categories: git
 ---
 
 ## 이왕이면 다홍치마, 배포 자동화 도전

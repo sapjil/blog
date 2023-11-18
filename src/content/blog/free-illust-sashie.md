@@ -1,10 +1,27 @@
 ---
 title: 매일 갱신중인 심플하고 유머러스한 무료 일러스트 - SASHIE
 pubDate: 2017-06-29
-tags: design, free, freebie, sashie, illust, sapjil, simple, 공짜, 무료, 사시에, 무료일러스트, 삽질, 심플, 삽화, 유머러스, 일러스트
+tags:
+  [
+    'design',
+    'free',
+    'freebie',
+    'sashie',
+    'illust',
+    'sapjil',
+    'simple',
+    '공짜',
+    '무료',
+    '사시에',
+    '무료일러스트',
+    '삽질',
+    '심플',
+    '삽화',
+    '유머러스',
+    '일러스트',
+  ]
 description: 2018년 2월 26일까지 총액 $104의 유료폰트 번들을 무료 다운로드! 총액 11만원 상당의 유료폰트를 무료로 다운받을 수 있는 기회를 놓치지 마시기 바랍니다. 이번 기회를 놓치지 마세요!
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

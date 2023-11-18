@@ -1,10 +1,9 @@
 ---
 title: CNAME을 활용해서 GitHub Pages에 커스텀 도메인 고정 시키기
 pubDate: 2020-01-21
-tags: 커스텀 도메인, CNAME, Custom Domain, Domain, GitHub Pages
+tags: ['커스텀 도메인', 'CNAME', 'Custom Domain', 'Domain', 'GitHub Pages']
 description: GitHub Pages 커스텀 도메인을 등록했는데도 불구하고 배포 후에 404 페이지가 떠서 매번 주소를 다시 지정해 줘야 하는 경험을 해보신적이 있으신가요? 이 경우 CNAME을 지정하고 파일을 등록해 놓으면 이런 문제가 깔끔하게 해결됩니다.
-categories:
-  - www
+categories: www
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

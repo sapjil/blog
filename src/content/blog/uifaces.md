@@ -2,9 +2,19 @@
 title: 페르소나에 사용할 사용자의 사진이 필요하다면 - UI Faces
 pubDate: 2018-04-17
 description: 프로젝트를 진행할 경우, 페르소나가 필요할 때가 있습니다. 이때 최대한 사실에 근거한 느낌을 주기 위하여 사용자 타겟 정보에 실제 인물의 사진을 사용하는 편입니다. UI Faces는 Sketch의 플러그인으로 이 과정을 쉽게 도와줍니다.
-tags: persona, photo, plugin, sketch, uifaces, user, 사용자 사진, 페르소나, 플러그인
-categories:
-  - www
+tags:
+  [
+    'persona',
+    'photo',
+    'plugin',
+    'sketch',
+    'uifaces',
+    'user',
+    '사용자 사진',
+    '페르소나',
+    '플러그인',
+  ]
+categories: www
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

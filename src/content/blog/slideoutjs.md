@@ -1,10 +1,21 @@
 ---
 title: 네이티브앱과 같은 동작을 구현해주는 slideout.js
 pubDate: 2015-06-26
-tags: coding, git, jquery, sapjil, side menu, slideout, slider, 모바일, 사이드메뉴, 슬라이더
+tags:
+  [
+    'coding',
+    'git',
+    'jquery',
+    'sapjil',
+    'side menu',
+    'slideout',
+    'slider',
+    '모바일',
+    '사이드메뉴',
+    '슬라이더',
+  ]
 description: slideout.js는 스마트폰에서 스와이프 시키면 사이드 메뉴가 나오는형식의, 페이스북이나 여타 네이티브앱에 가까운 사용자경험을 주는 라이브러리입니다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: 컴파일 실패
-pubDate: 2023-03-13  14:45:25
-tags: blog, 리액트, react, Failed to compile, WebSocket
+pubDate: 2023-03-13
+tags: ['blog', '리액트', 'react', 'Failed to compile', 'WebSocket']
 description: Failed to compile라면서 컴파일 관련 에러가 나왔을 때 확인해야 할 사항
+categories: react
 ---
 
 ## Failed to compile.

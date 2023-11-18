@@ -1,9 +1,21 @@
 ---
 title: (error) port error가 문제였다고
-pubDate: 2023-03-11  21:28:57
-updatedDate: 2023-03-14  09:40:04
-tags: blog, 리액트, react, port, error, WebSocket
+pubDate: 2023-03-11
+updatedDate: 2023-03-14
+tags:
+  [
+    'blog',
+    '리액트',
+    'react',
+    'port',
+    'error',
+    'WebSocket',
+    'WDS_SOCKET_PORT',
+    'react-script',
+		'sudo kill'
+  ]
 description: 작업중 포트 에러가 나올때 대처법. 차분하게 에러를 잘 확인하자.
+categories: coding
 ---
 
 - [update] 2023-03-14

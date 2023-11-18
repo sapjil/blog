@@ -1,10 +1,24 @@
 ---
 title: 무료 포토샵 텍스트 이펙트
 pubDate: 2016-07-28
-tags: 3d, effects, free, freebie, lightbox, photoshop, retro, shadow, sketch, text, title, type, stone
+tags:
+  [
+    '3d',
+    'effects',
+    'free',
+    'freebie',
+    'lightbox',
+    'photoshop',
+    'retro',
+    'shadow',
+    'sketch',
+    'text',
+    'title',
+    'type',
+    'stone',
+  ]
 description: free Photoshop text effects 중에서 타이틀에 사용하면 어울리지 않을까 싶은 6가지를 추려 봤습니다.
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

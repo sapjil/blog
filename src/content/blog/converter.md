@@ -1,10 +1,9 @@
 ---
 title: px, em, dpi등의 단위 변환을 도와주는 사이트
 pubDate: 2015-03-15
-tags: px, em, rem, points, dp, dpi]
+tags: ['px', 'em', 'rem', 'points', 'dp', 'dpi']
 description: 디자인을 하거나 코딩을 하는등, 웹사이트 작업을 진행하다 보면 가끔씩 단위변환을 해야 하는 경우가 생기곤 합니다. px, rem, rm, pt, in등의 변환작업을 손쉽게 도와주는 곳을 소개합니다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: 포털이여 열려라!
-pubDate: 2023-06-03  09:37:27
-tags: gatsby, blog, 리액트, react, portal
+pubDate: 2023-06-03
+tags: ['blog', '리액트', 'react', 'portal', '모달', 'modal', 'popup', '접근성']
 description: 리액트에서 팝업을 다루는 방법. 그것은 포털을 여는 것!
+categories: react
 ---
 
 맞다. 다. 나는 지금 리액트를 공부하는 중이다. 우연한 기회로 원하던 프로젝트에도 참가하고 있다. 프론트앤드는 언감생심. 일단은 퍼블리싱 파트로 프로젝트에 참여하고 있는데 이전 작업자들이 만들어 놓은 소스를 분석하는 것도 힘겹다. 그래도 재미는 있다.
@@ -64,18 +65,18 @@ Modal Component에서 `react-dom`을 설정하고, 콘텐츠를 다룰 `Modal`�
 
 ```js
 // Modal.js
-import { createPortal } from "react-dom"
+import { createPortal } from 'react-dom';
 
 // Modal Component 구성
 const Modal = () => {
   return (
-    <div className="modal">
+    <div className='modal'>
       <h3>Modal</h3>
       <p>textContent</p>
       <button>close</button>
     </div>
-  )
-}
+  );
+};
 
 // Portal 구성
 const Modal = () => {
@@ -83,18 +84,18 @@ const Modal = () => {
     <>
       {createPortal(
         <Modal />, // Modal Component 배치
-        document.getElementById("modal-root") // Modal 위치
+        document.getElementById('modal-root') // Modal 위치
       )}
     </>
-  )
-}
+  );
+};
 ```
 
 소스를 보면 이해가 되겠지만, createPortal 은 다음과 같은 구조로 이루어지는데 `children`에서 대상을 import하고, `container`에 위치시킬 곳을 지정시키는 방식이다.
 
 ```js
 {
-  ReactDOM.createPortal(children, container)
+  ReactDOM.createPortal(children, container);
 }
 ```
 

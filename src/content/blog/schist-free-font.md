@@ -1,10 +1,23 @@
 ---
 title: 칠판에 분필로 쓴 느낌을 주는 무료폰트 - SCHIST
 pubDate: 2015-04-23
-tags: board, chalk, font, free, freebie, sans-serif, schist, 고딕체, 무료, 분필, 칠판, 폰트
+tags:
+  [
+    'board',
+    'chalk',
+    'font',
+    'free',
+    'freebie',
+    'sans-serif',
+    'schist',
+    '고딕체',
+    '무료',
+    '분필',
+    '칠판',
+    '폰트',
+  ]
 description: 칠판에 분필로 쓴것과 같은 효과를 내주는 무료폰트가 있어 소개해 봅니다. SCHIST는 폰트자체가 디자인 되어 있기에 폰트 자체만으로도 분위기가 있습니다. Sans-serif체로 Light, Medium, Demi, Bold의 4가지 Font Family까지 지원하고 있어 사용폭이 넓을것 같습니다.
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

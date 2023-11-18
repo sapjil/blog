@@ -1,10 +1,23 @@
 ---
 title: 패션관련 디자인에 적합해 보이는 무료폰트 - Glamor
 pubDate: 2016-07-12
-tags: design, font, free, freebie, Glamor, sapjil, free font, 공짜, 무료, 삽질, 폰트, 무료폰트
+tags:
+  [
+    'design',
+    'font',
+    'free',
+    'freebie',
+    'Glamor',
+    'sapjil',
+    'free font',
+    '공짜',
+    '무료',
+    '삽질',
+    '폰트',
+    '무료폰트',
+  ]
 description: 세련되고 깔끔한 폰트 패밀리로 패션관련 디자인에 적합해 보이는 폰트가 있어 소개드립니다.
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

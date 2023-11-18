@@ -1,10 +1,18 @@
 ---
 title: 아름다운 그라데이션을 간단하게 - Blend
 pubDate: 2016-07-17
-tags: generate, css3, gradients, blend, 그라데이션, 제네레이터, 생성기
+tags:
+  [
+    'generate',
+    'css3',
+    'gradients',
+    'blend',
+    '그라데이션',
+    '제네레이터',
+    '생성기',
+  ]
 description: Blend 를 사용하게 되면 힘들게 일일이 소스를 작성하지 않아도 간단하게 CSS3로 된 그라데이션을 만들 수 있습니다
-categories:
-  - www
+categories: www
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

@@ -2,10 +2,9 @@
 title: Git merge --squash의 필요성을 느끼게 되었다.
 pubDate: 2023-11-12
 # updatedDate: 2023-11-10
-tags: git, squash, merge
+tags: ['git', 'squash', 'merge']
 description: Git 사용시 이력 관리를 깔끔하게 하기 위해 squash 사용법을 익혔다.
-categories:
-  - git
+categories: git
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

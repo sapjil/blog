@@ -1,10 +1,39 @@
 ---
 title: 코딩의 작업효율을 올려주는 Brackets 확장기능
 pubDate: 2016-07-08
-tags: outline, document, merge, guide, todo, emmet, zencoding, linter, w3c, sass, hint, git, sinppets, lorem, comb, ipsum, autoprefixer, adobe, brackets, coding, extension, plugin, 코딩, 플러그인, 확장기능, 효율성, sapjil, 삽질
+tags:
+  [
+    'outline',
+    'document',
+    'merge',
+    'guide',
+    'todo',
+    'emmet',
+    'zencoding',
+    'linter',
+    'w3c',
+    'sass',
+    'hint',
+    'git',
+    'sinppets',
+    'lorem',
+    'comb',
+    'ipsum',
+    'autoprefixer',
+    'adobe',
+    'brackets',
+    'coding',
+    'extension',
+    'plugin',
+    '코딩',
+    '플러그인',
+    '확장기능',
+    '효율성',
+    'sapjil',
+    '삽질',
+  ]
 description: 이제는 많이 안정화 되었다고 생각되는 Adobe 'Brackets'로 코딩작업시에 작업시간을 단축시켜주어 업무효율을 올려줄것이라 기대되는 플러그인들을 위주로 정리해 보았습니다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-3.jpg'
 ---
 

@@ -1,10 +1,21 @@
 ---
 title: Wordpress.com에서 다국어 설정하기
 pubDate: 2015-04-21
-tags: multilingual, language, multi, wordpress, wp, 다국어, 언어, 워드프레스, com, org
+tags:
+  [
+    'multilingual',
+    'language',
+    'multi',
+    'wordpress',
+    'wp',
+    '다국어',
+    '언어',
+    '워드프레스',
+    'com',
+    'org',
+  ]
 description: wordpress를 사용해서 블로그나 웹서비스를  하고 있는 사용자층이 국내에서도 많아지고 있는 요즘, 기본으로 제공되는 위젯이 아니면 무조건 유료를 사용해야 하는 wordpress.com에서 별도 플러그인을 사용하지 않고 카테고리와 메뉴를 활용하여 다국어 서비스를 위한 설정방법을 알아봤습니다.
-categories:
-  - www
+categories: wordpress
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

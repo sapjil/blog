@@ -1,10 +1,22 @@
 ---
 title: 스포츠관련 디자인에 어울려 보이는 무료 폰트 - ARGON
 pubDate: 2017-04-30
-tags: freebie, free font, font, free, design, 무료, 무료폰트, 공짜, 폰트, sapjil, argon
+tags:
+  [
+    'freebie',
+    'free font',
+    'font',
+    'free',
+    'design',
+    '무료',
+    '무료폰트',
+    '공짜',
+    '폰트',
+    'sapjil',
+    'argon',
+  ]
 description: Argon는 산세리프 타입의 오픈타입(OTF)폰트로 기하학적이면서 그래픽적인 느낌의 스포츠 관련 디자인 작업시에 어울릴 것 같아 보이는 폰트라고 생각됩니다.
-categories:
-  - freebie
+categories: freebie
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

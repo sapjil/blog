@@ -1,10 +1,10 @@
 ---
 title: reset.css 와 Normalize.css
 pubDate: 2017-01-06
-tags: normalize, reset, css, css3, coding, markup, 초기화, 마크업
+tags:
+  ['normalize', 'reset', 'css', 'css3', 'coding', 'markup', '초기화', '마크업']
 description: 사이트 구축시 사용되는 CSS중에서 가장 많이 알려져 있고, 알려져 있는 만큼 많이 사용되고 있는 것 중에서 비슷하면서도 다른 성격을 가지고 있는 reset.css와 normalize.css에 대해서 살짝 알아보았습니다.
-categories:
-  - coding
+categories: coding
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: TypeError Cannot read properties of undefined
-pubDate: 2023-10-22  21:12:00
-tags: blog, 리액트, react, jsconfig.json, 별칭
+pubDate: 2023-10-22
+tags: ['blog', '리액트', 'react', 'TypeError', 'undefined', '에러']
 description: 아 놔.. TypeError Cannot read properties of undefined는 또 뭐냐고
+categories: react
 ---
 
 ```

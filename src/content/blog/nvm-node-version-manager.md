@@ -2,10 +2,9 @@
 title: nvm으로 node 버전 관리하기
 pubDate: 2023-11-15
 # updatedDate: 2023-11-10
-tags: node, nvm
+tags: ['node', 'nvm']
 description: 그동안 굳이 사용할 필요성을 느끼지 못했던 nvm 인데.. 버전 관리를 해볼 필요가 생겨서 적용해봄
-categories:
-  - www
+categories: node
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

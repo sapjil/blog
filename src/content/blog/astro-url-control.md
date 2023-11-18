@@ -2,10 +2,9 @@
 title: Astro URL 조정방법
 pubDate: 2023-11-09
 updatedDate: 2023-11-10
-tags: Astro, sapjil, 삽질
+tags: ['Astro', 'sapjil', '삽질']
 description: Astro 첫 삽질은 URL에서 /blog/를 없애고 바로 포스팅 주소로 경로를 조정하는 것이었다.
-categories:
-  - Astro
+categories: astro
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

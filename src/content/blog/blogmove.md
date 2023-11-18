@@ -1,10 +1,10 @@
 ---
 title: 블로그를 이전하였습니다.
 pubDate: 2019-03-15
-tags: 블로그, 이전, WP, WordPress, 워드프레스, 헥소, hexo, github
+tags:
+  ['블로그', '이전', 'WP', 'WordPress', '워드프레스', '헥소', 'hexo', 'github']
 description: 블로그를 워드프레스에서 hexo로 이전하였습니다.
-categories:
-  - www
+categories: hexo
 # heroImage: '/blog-placeholder-4.jpg'
 ---
 

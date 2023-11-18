@@ -1,10 +1,27 @@
 ---
 title: 워드프레스 테마 작업전에 익혀두면 좋을 SEO지식
 pubDate: 2015-08-18
-tags: 검색엔진최적화, 워드프레스, wordpress, SEO, wp, CMS, 테마제작, 테마, 크롤링, 네비게이션, 타이틀, 위치정보, breadcrumb, 구조, 템플릿, 아키텍트
+tags:
+  [
+    '검색엔진최적화',
+    '워드프레스',
+    'wordpress',
+    'SEO',
+    'wp',
+    'CMS',
+    '테마제작',
+    '테마',
+    '크롤링',
+    '네비게이션',
+    '타이틀',
+    '위치정보',
+    'breadcrumb',
+    '구조',
+    '템플릿',
+    '아키텍트',
+  ]
 description: 기본적으로 SEO에 최적화 되어 있다는 평을 받고 있는 워드프레스용 테마를 제작할 경우에 기본적으로 고려하면서 제작을 해두면 사이트의 트래픽향상에 도움이 될것이라 생각되는 몇가지를 소개해 드립니다.
-categories:
-  - seo
+categories: wordpress
 # heroImage: '/blog-placeholder-2.jpg'
 ---
 

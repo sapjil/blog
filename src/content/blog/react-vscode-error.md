@@ -1,8 +1,9 @@
 ---
 title: (error) 리액트 작업 중 권한에러 발생시 대응 방법
-pubDate: 2023-05-18  21:21:11
-tags: blog, 리액트, react, js, error
+pubDate: 2023-05-18
+tags: ['blog', '리액트', 'react', 'js', 'error', 'VSCODE', '권한 문제']
 description: VSCODE 작업 중, 권한 문제가 발생했을때 대응 법
+categories: react
 ---
 
 ## 이런 문제는 왜 생기는지 근본적인 원인은 모르겠지만..

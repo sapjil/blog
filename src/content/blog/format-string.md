@@ -1,8 +1,9 @@
 ---
 title: Gatsby - 날짜 형식 변경
-pubDate: 2023-03-15  21:43:53
-tags: blog, 리액트, react, Gatsby
+pubDate: 2023-03-15
+tags: ['blog', '리액트', 'react', 'Gatsby']
 description: formatString을 수정해서 Gatsby에서 제공되는 날짜 형식을 연월일 순으로 변경
+categories: react
 ---
 
 ## 영미권 년월일은 보기 불편하다.

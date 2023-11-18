@@ -1,8 +1,9 @@
 ---
 title: create-react-app
 pubDate: 2023-03-09  22:31:33
-tags: blog, 리액트, react
+tags: ['blog', '리액트', 'react', '설치', '시작', '배포']
 description: 리액트를 시작할 때 필요한 것들
+categories: react
 ---
 
 ## 리액트 설치

@@ -1,8 +1,9 @@
 ---
 title: 내가 React를 시작한 이유 되짚어 보기
-pubDate: 2023-06-20  21:23:50
-tags: blog, 리액트, react, reason, 시작한 이유
+pubDate: 2023-06-20
+tags: ['blog', '리액트', 'react', 'reason', '시작한 이유']
 description: 내가 React를 시작하게 된 이유를 생각해 봤다. 쓸데없이 긴 서두와 간단한 결론.
+categories: react
 ---
 
 ![react](https://live.staticflickr.com/65535/52988955773_9d144da64e_b.jpg)

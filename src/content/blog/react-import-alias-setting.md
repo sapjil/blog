@@ -1,8 +1,9 @@
 ---
 title: import에 상대경로대신 절대경로를 사용하고 싶었다
-pubDate: 2023-10-14  09:20:33
-tags: blog, 리액트, react, jsconfig.json, 별칭
+pubDate: 2023-10-14
+tags: ['blog', '리액트', 'react', 'jsconfig.json', '별칭']
 description: import에 절대경로를 사용하기 위한 jsconfig.json 설정. Simple is Best.
+categories: react
 ---
 
 리액트를 공부하고 프로젝트에서 경험을 하면서 마주하게 되는 것 중에 import 할때 `../../polder/path/`처럼 상대경로가 지정되는 경우가 있다. 페이지에 불러오는 것이 몇개 없을때면 크게 상관 없는데 컴포넌트가 많아지다 보면 여간 어지럽고 보기에 흉한 경향이 있다(?)
@@ -33,10 +34,10 @@ description: import에 절대경로를 사용하기 위한 jsconfig.json 설정.
 
 ```js
 // 적용 전
-import Sample from "../Components/Sample"
+import Sample from '../Components/Sample';
 
 // 적용 후
-import Sample from "Components/Sample"
+import Sample from 'Components/Sample';
 ```
 
 ## ETC.
@@ -64,10 +65,10 @@ paths에 `"@/*": ["./src/*"]`를 추가시키면 `@/Components` 처럼 표기된
 
 ```js
 // 추가시키기 전
-import Sample from "@Components/Sample"
+import Sample from '@Components/Sample';
 
 // 추가시킨 후
-import Sample from "@/Components/Sample"
+import Sample from '@/Components/Sample';
 ```
 
 가상경로에 대한 검색을 했을 때 가장 많은 검색결과는 단연 `craco`였다. 처음엔 나도 이걸로 이리저리 해 봤지만 뭔가 틀렸다... 이리저리 해보다 버리는 수로 결정. 아직 이런걸 건드리기엔 많이 부족하다는 것을 알았다.
