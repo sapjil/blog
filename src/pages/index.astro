@@ -42,6 +42,7 @@ import '../styles/style.scss'
           {
             posts.map((post) => (
               <li class="list-item">
+								[<span class='categories'>{post.data.categories}</span>]
                 <a href={`/${post.slug}/`} class="list-item-link">
 									<span class='title'>{post.data.title}</span>
 									<small class="date">(<FormattedDate date={post.data.pubDate} />)</small>
