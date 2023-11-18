@@ -42,17 +42,13 @@ import '../styles/style.scss'
           {
             posts.map((post) => (
               <li class="list-item">
-								[<span class='categories'>{post.data.categories}</span>]
+								<span class='categories tag'>{post.data.categories}</span>
+								<small class="date"><FormattedDate date={post.data.pubDate} /></small>
                 <a href={`/${post.slug}/`} class="list-item-link">
-									<span class='title'>{post.data.title}</span>
-									<small class="date">(<FormattedDate date={post.data.pubDate} />)</small>
-									<br />
-									<small class="date">{post.data.description}</small>
+									<div class='title'>{post.data.title}</div>
                   {/*<img width={720} height={360} src={post.data.heroImage} alt=''/>*/}
-                  {/** <div class='list-item-link'>
-                    <div class='title'>{post.data.title}</div>
-                  </div>*/}
-                </a>
+									</a>
+									{/*<div><small class="list-description">{post.data.description}</small></div> */}
               </li>
             ))
           }

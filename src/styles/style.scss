@@ -195,30 +195,40 @@ nav {
 .post-tags strong {color: #222}
 
 .list-item {
-	&:nth-child(1) {
-		.list-item-link {
-			.title, .date {}
-		}
-	}
-	&:nth-child(2) {
-		.list-item-link {
-			.title, .date {}
-		}
-	}
-	&:nth-child(3) {
-		.list-item-link {
-			.title, .date {}
-		}
-	}
-	&:nth-child(4) {
-		.list-item-link {
-			.title, .date {}
-		}
-	}
-	&:nth-child(5) {
-		.list-item-link {
-			.title, .date {}
-		}
+	position: relative;
+	list-style: none;
+	// &:nth-child(1) {
+	// 	.list-item-link {
+	// 		.title, .date {}
+	// 	}
+	// }
+	// &:nth-child(2) {
+	// 	.list-item-link {
+	// 		.title, .date {}
+	// 	}
+	// }
+	// &:nth-child(3) {
+	// 	.list-item-link {
+	// 		.title, .date {}
+	// 	}
+	// }
+	// &:nth-child(4) {
+	// 	.list-item-link {
+	// 		.title, .date {}
+	// 	}
+	// }
+	// &:nth-child(5) {
+	// 	.list-item-link {
+	// 		.title, .date {}
+	// 	}
+	// }
+	.tag {
+		background-color: #000;
+		color: #ddd;
+		margin-right: .5rem;
+		font-size: .8125rem;
+		padding: .125rem .375rem;
+		border-radius: .25rem;
 	}
 }
 
@@ -230,9 +240,13 @@ ul li:not(:first-child) {margin-top: .5rem}
 ul li a{line-height: 1.25}
 .list-item-link {
 	.title {
+		font-size: 1rem;
 		font-weight: 700;
+		vertical-align: text-top;
 	}
 }
+small > time {font-size: .8125rem;}
+.list-description {color: rgb(var(--gray));line-height: normal;}
 // .list-item-link:hover .date{font-weight: normal}
 
 // a {
