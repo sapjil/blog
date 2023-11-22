@@ -1,8 +1,8 @@
 ---
 title: nvm으로 node 버전 관리하기
 pubDate: 2023-11-15
-# updatedDate: 2023-11-10
-tags: ['node', 'nvm']
+updatedDate: 2023-11-22
+tags: ['node', 'nvm', 'brew', 'Homebrew', '버전관리']
 description: 그동안 굳이 사용할 필요성을 느끼지 못했던 nvm 인데.. 버전 관리를 해볼 필요가 생겨서 적용해봄
 categories: node
 # heroImage: '/blog-placeholder-2.jpg'
@@ -24,6 +24,31 @@ mac에서는 brew가 필요한 관계로 우선 brew 설치
 
 ```
 brew -v
+```
+
+만약 `brew`를 찾지 못할 경우
+
+```
+zsh: command not found: brew
+```
+
+`.zshrc`에서 직접 path를 설정해 줘야 함
+
+```
+vi ~/.zshrc
+```
+
+다음의 내용을 기입하고 저장한뒤 종료(`:wq`)후 터미널을 재실행
+
+```
+export PATH=/opt/homebrew/bin:$PATH
+```
+
+설치 잘 된건지 다시 확인 후
+
+```
+brew -v
+Homebrew 4.1.21
 ```
 
 nvm 설치
