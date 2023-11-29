@@ -20,6 +20,71 @@
           "alt"
         ]
       }
-    }
+    },
+    {
+      "selector": ".line",
+      "rules": {
+		"required-attr": false,
+		"character-reference": false
+      }
+    },
+    {
+      "selector": "iframe",
+      "rules": {
+		"deprecated-attr": false,
+		"required-attr": false
+      }
+    },
+    {
+      "selector": "table, th, td",
+      "rules": {
+		"deprecated-attr": false,
+		"require-accessible-name": false
+      }
+    },
+    {
+      "selector": "script",
+      "rules": {
+		"required-attr": false
+      }
+    },
+	{
+		"selector": "code",
+		"rules": {
+			"character-reference": false
+		}
+    },
+	{
+		"selector": "pre",
+		"rules": {
+			"character-reference": false
+		}
+    },
+	{
+		"selector": "li",
+		"rules": {
+			"use-list": false
+		}
+	}
+],
+"childNodeRules": [
+	  {
+		  "selector": "code",
+		  "rules": {
+			  "character-reference": false
+		  }
+	  },
+	  {
+		  "selector": "pre",
+		  "rules": {
+			  "character-reference": false
+		  }
+	  },
+	  {
+		"selector": "li",
+		"rules": {
+			"use-list": false
+		}
+	}
   ]
 }

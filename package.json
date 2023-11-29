@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "lint": "markuplint './src/**/*.astro'"
+    "lint:html": "markuplint './dist/**/*.html'",
+    "lint:astro": "markuplint './src/**/*.astro'"
   },
   "dependencies": {
     "@astrojs/mdx": "^1.1.3",
