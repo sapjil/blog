@@ -6,9 +6,18 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Analytics from '../components/Analytics.astro';
 
+import {generateCategoryData} from '../utils/helpers'
+
 type Props = CollectionEntry<'blog'>['data'];
 
+<<<<<<< HEAD
 const { title, description, pubDate, updatedDate, categories, heroImage, tags } = Astro.props;
+=======
+const { title, description, pubDate, updatedDate, heroImage, tags} = Astro.props;
+const allCategoriesData = generateCategoryData(description.categories);
+
+console.log(allCategoriesData);
+>>>>>>> local
 ---
 
 <html lang='en'>
