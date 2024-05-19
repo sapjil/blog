@@ -1,6 +1,6 @@
 ---
 title: disable-hardware-acceleration로 VSCODE가 버벅거릴때 해결법
-pubDate: 2024-04-17
+pubDate: 2024-05-19
 tags: ["blog", "VSCODE", "속도개선", "버벅거림 해결"]
 description: VSCODE 작업 중, 반응속도가 느려서 울화통이 터질뻔...
 categories: vscode
