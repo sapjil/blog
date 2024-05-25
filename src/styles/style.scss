@@ -257,3 +257,13 @@ small > time {font-size: .8125rem;}
 // 	font-weight: bolder;
 // 	text-decoration: underline;
 // }
+
+.banner-buyme {
+	width: 720px;
+	max-width: calc(100% - 2em);
+	margin: auto;
+	padding: 1rem 0 0;
+	p {
+		margin: 0;
+	}
+}
