@@ -317,6 +317,7 @@ small > time {
 
 details {
   margin-bottom: 1rem;
+  appearance: none;
   &[open] {
     summary {
       cursor: pointer;

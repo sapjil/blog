@@ -34,7 +34,13 @@ heroImage: 'https://live.staticflickr.com/65535/53784308163_f10aa8426f_o.png'
 
 이번에 가장 큰 변화는 `const` 에서 `import` 형식으로 바뀐 게 가장 큰 차이점이라 생각된다.
 
-<script src="https://gist.github.com/sapjil/7197e7695fc23f42b2d8f0941a2a53e3.js"></script>
+```js
+// "gulp": "^4.0.2",
+const gulp = require('gulp');
+
+// "gulp": "^5.0.0",
+import gulp from 'gulp';
+```
 
 ## Nunjucks + beautify 도입
 
