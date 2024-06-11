@@ -333,6 +333,9 @@ details {
   }
   summary {
     list-style-type: none;
+    &::-webkit-details-marker {
+      display: none;
+    }
     cursor: pointer;
     border: 1px solid #000;
     background: #000;
