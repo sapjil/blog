@@ -314,6 +314,13 @@ small > time {
   max-width: calc(100% - 2em);
   margin: auto;
   padding: 1rem 0 0;
+  a {
+    transition: all 0.3s;
+    filter: grayscale(1);
+    &:hover {
+      filter: none;
+    }
+  }
   p {
     margin: 0;
   }
@@ -355,5 +362,22 @@ details {
       display: inline-block;
       margin-right: 0.5rem;
     }
+  }
+}
+
+.gist {
+  .gist-file {
+    table {
+      th,
+      td {
+        border: none;
+      }
+    }
+  }
+  .blob-num {
+    border-right: 1px solid #ddd !important;
+  }
+  .gist-meta {
+    filter: grayscale(10);
   }
 }
