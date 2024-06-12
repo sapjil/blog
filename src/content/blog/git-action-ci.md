@@ -16,6 +16,7 @@ tags:
   ]
 description: Github Action과 Firebase Hostion을 사용해서 자동 배포 설정
 categories: git
+heroImage: 'https://live.staticflickr.com/65535/53786479953_c2b2fcff2e_o.png'
 ---
 
 ## 이왕이면 다홍치마, 배포 자동화 도전

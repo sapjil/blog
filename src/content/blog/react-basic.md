@@ -4,6 +4,7 @@ pubDate: 2023-03-16
 tags: ['blog', '리액트', 'react', 'js', 'jsx']
 description: 개인적으로 리액트를 사용하는데 알고 있어야 할 기본적인 코딩 기준에 관한 메모
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## 시작은 했다. 시작은...

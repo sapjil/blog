@@ -4,6 +4,7 @@ pubDate: 2023-06-10
 tags: ['blog', '리액트', 'react', 'js', 'error', 'basename', 'useContext']
 description: Cannot destructure property 'basename' of ... 관련 에러가 나올때 대응법
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## basename property 관련 에러

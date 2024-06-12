@@ -4,9 +4,10 @@ pubDate: 2023-06-20
 tags: ['blog', '리액트', 'react', 'reason', '시작한 이유']
 description: 내가 React를 시작하게 된 이유를 생각해 봤다. 쓸데없이 긴 서두와 간단한 결론.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
-![react](https://live.staticflickr.com/65535/52988955773_9d144da64e_b.jpg)
+<!-- ![react](https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png) -->
 
 이 글은 본인의 배경이 웹퍼블리셔이다 보니 웹에 국한된 편협한 짧은 생각일 수밖에 없다는 걸 사전에 인지했으면 한다. 그냥 생각나서 정리해 본 내용이니까. 개인적으로는 HTML을 주로 다루기 때문에 **마크업 엔지니어**라는 표현을 더 좋아하지만 퍼블리셔가 너무 일반화되어 있어 편의상 퍼블리셔를 사용하고 있다.
 

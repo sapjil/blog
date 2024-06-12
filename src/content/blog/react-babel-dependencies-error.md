@@ -4,6 +4,7 @@ pubDate: 2023-10-09
 tags: ['blog', '리액트', 'react', 'babel', 'dependencies', 'error']
 description: 거의 모든 문제의 해결법은 인터넷에 공개되어 있다.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## babel dependencies

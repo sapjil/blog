@@ -1,9 +1,23 @@
 ---
 title: createPortal로 모달 팝업 관리하기. show, hide 또는 remove
 pubDate: 2024-04-16
-tags: ['blog', 'react', 'portal', 'show', 'hide', 'remove', 'modal', 'popup','리액트', '모달', '접근성']
+tags:
+  [
+    'blog',
+    'react',
+    'portal',
+    'show',
+    'hide',
+    'remove',
+    'modal',
+    'popup',
+    '리액트',
+    '모달',
+    '접근성',
+  ]
 description: 포털을 다루는 방법을 좀더 고민해 봤다.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 작년 12월을 끝으로 일을 잡지 못해 계속 백수생활 중이다. 2월말 어머니를 모시고 일주일정도 여행을 다녀와야 해서 일을 찾지 못한 것도 있지만, 근 4개월을 놀고 있으니..한동안 코딩을 하지 않고 여행 다녀오고, 그림(낙서)그리고, 넷플릭스 보며 시간을 보냈다.
@@ -16,8 +30,8 @@ categories: react
 
 - 데이터가 필요 없는 경우
 - 데이터가 필요한 경우
-	- 데이터가 단순한 경우
-	- 매번 데이터를 넣었다 뺐다 하기 부담되는 경우
+  - 데이터가 단순한 경우
+  - 매번 데이터를 넣었다 뺐다 하기 부담되는 경우
 
 1번의 경우 매번 DOM을 넣었다 뺐다 하는 것이 소스상으로는 이상적이지만, 데이터에 따라선 항상 정보를 가지고 다니기 부담스러운 경우도 있을 수 있기 때문이라 여겨진다.
 

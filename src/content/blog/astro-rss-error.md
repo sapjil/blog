@@ -5,7 +5,7 @@ pubDate: 2023-11-18
 tags: ['astro', 'Invalid input', 'rss.xml.js', '빌드 실패', 'error']
 description: description
 categories: astro
-# heroImage: '/blog-placeholder-2.jpg'
+heroImage: 'https://live.staticflickr.com/65535/53786675855_ed3dc09c60_o.png'
 ---
 
 이것저것 옵션을 건드려보면서 하나씩 알아보는 와중에 대충 소스 정리가 마무리된 것 같아 커밋을 하고 기다려도 빌드가 성공하지 않고 있었다. 깃허브 액션에 들어가 보니 에러로 막혀 있었다. 앞으로는 무조건 로컬에서 빌드 테스트를 한 후에 올려야겠다. 너무 안일하게 하고 있는 것 같다.

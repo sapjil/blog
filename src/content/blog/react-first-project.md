@@ -4,9 +4,10 @@ pubDate: 2023-10-03
 tags: ['blog', '리액트', 'react', 'markup', 'project', 'mui', 'Hook']
 description: 드디어 첫 경험을 마쳤다. 마크업 엔지니어로 첫 React 프로젝트에 참가한 뒷 이야기.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
-![react](https://live.staticflickr.com/65535/52988955773_9d144da64e_b.jpg)
+<!-- ![react](https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png) -->
 
 ## 드디어 첫 경험을 마치다.
 

@@ -4,6 +4,7 @@ pubDate: 2023-04-22
 tags: ['blog', '리액트', 'react', 'component', 'white-space', '줄바꿈']
 description: 리액트에서 '\n'로 줄바꿈이 적용되지 않을때 해결 방법.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## 리액트 텍스트 줄바꿈 문제

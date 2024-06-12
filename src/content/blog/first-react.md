@@ -4,6 +4,7 @@ pubDate: 2023-03-09  22:31:33
 tags: ['blog', '리액트', 'react', '설치', '시작', '배포']
 description: 리액트를 시작할 때 필요한 것들
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## 리액트 설치

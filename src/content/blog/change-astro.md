@@ -7,6 +7,7 @@ description: Gridsome에서 Astro로 넘어오게 된 이야기
 categories: www
 # heroImage: '/blog-placeholder-about.jpg'
 # heroImage='/blog-placeholder-about.jpg'
+heroImage: 'https://live.staticflickr.com/65535/53786675855_ed3dc09c60_o.png'
 ---
 
 <img src="https://live.staticflickr.com/65535/53308273903_1d6030c9d0_b.jpg" alt="blog-placeholder-astro"/>

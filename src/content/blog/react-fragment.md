@@ -4,6 +4,7 @@ pubDate: 2023-10-24
 tags: ['blog', '리액트', 'react', 'fragment', 'map', 'array']
 description: React.Fragment로 key 관련 에러에서 빠져나오자
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## key 관련 에러

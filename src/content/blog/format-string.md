@@ -4,6 +4,7 @@ pubDate: 2023-03-15
 tags: ['blog', '리액트', 'react', 'Gatsby']
 description: formatString을 수정해서 Gatsby에서 제공되는 날짜 형식을 연월일 순으로 변경
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786668289_5f59c79efa_o.png
 ---
 
 ## 영미권 년월일은 보기 불편하다.

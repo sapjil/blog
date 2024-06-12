@@ -5,7 +5,7 @@ updatedDate: 2024-01-02
 tags: ['node', 'nvm', 'nvmrc', 'brew', 'Homebrew', '버전관리', '자동화']
 description: 그동안 굳이 사용할 필요성을 느끼지 못했던 nvm 인데.. 버전 관리를 해볼 필요가 생겨서 적용하고 궁극에는 nvmrc를 사용하여 프로젝트별로 노드 버전을 자동으로 적용해주는 자동화 설정까지 마무리해서 귀차니즘에서 탈출하는 과정
 categories: node
-# heroImage: '/blog-placeholder-2.jpg'
+heroImage: https://live.staticflickr.com/65535/53786530793_80459ba103_o.png
 ---
 
 nvm의 존재는 알고 있었지만 그동안 딱히 사용할 일이 없었는데 이번에 사무실에서 기존 작업자가 html로 만들어 두었던 업무 가이드 문서를 vuepress로 바꾸어 보려고 하던 차에 운영 업무로 사용 중인 노드버전과 맞질 않아서 진행을 하지 못하고 있었다. 문제를 해결하기 위해 nvm을 도입해서 설치까지 마치고 일단 가이드 문서의 컨버팅(?)까지 마무리했다.

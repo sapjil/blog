@@ -4,6 +4,7 @@ pubDate: 2023-03-13
 tags: ['blog', '리액트', 'react', 'Failed to compile', 'WebSocket']
 description: Failed to compile라면서 컴파일 관련 에러가 나왔을 때 확인해야 할 사항
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 ## Failed to compile.

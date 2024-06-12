@@ -15,7 +15,8 @@ tags:
 		'sudo kill'
   ]
 description: 작업중 포트 에러가 나올때 대처법. 차분하게 에러를 잘 확인하자.
-categories: coding
+categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 - [update] 2023-03-14

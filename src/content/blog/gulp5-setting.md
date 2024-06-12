@@ -21,7 +21,7 @@ tags:
   ]
 description: 지적호기심으로 작업하고 있는 Gulp세팅. Gulp를 5로 설정하며 Nunjucks + beautify + tailwind + postcss + imagemin를 설정하여 마크업 환경을 최대한 편하게 자동화하기.
 categories: gulp
-heroImage: 'https://live.staticflickr.com/65535/53784308163_f10aa8426f_o.png'
+heroImage: 'https://live.staticflickr.com/65535/53784308163_917bd2a5ff_o.png'
 ---
 
 <!-- <img src="https://live.staticflickr.com/65535/53784308163_f10aa8426f_o.png" width="1024" height="640" alt="title_gulp"/> -->

@@ -5,7 +5,7 @@ updatedDate: 2023-11-30
 tags: ['git', 'squash', 'merge']
 description: Git 사용시 이력 관리를 깔끔하게 하기 위해 squash 사용법을 익혔다.
 categories: git
-# heroImage: '/blog-placeholder-2.jpg'
+heroImage: 'https://live.staticflickr.com/65535/53786479953_c2b2fcff2e_o.png'
 ---
 
 ## 일단 결론부터.

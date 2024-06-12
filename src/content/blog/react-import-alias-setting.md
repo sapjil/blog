@@ -4,6 +4,7 @@ pubDate: 2023-10-14
 tags: ['blog', '리액트', 'react', 'jsconfig.json', '별칭']
 description: import에 절대경로를 사용하기 위한 jsconfig.json 설정. Simple is Best.
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 리액트를 공부하고 프로젝트에서 경험을 하면서 마주하게 되는 것 중에 import 할때 `../../polder/path/`처럼 상대경로가 지정되는 경우가 있다. 페이지에 불러오는 것이 몇개 없을때면 크게 상관 없는데 컴포넌트가 많아지다 보면 여간 어지럽고 보기에 흉한 경향이 있다(?)

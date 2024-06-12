@@ -4,6 +4,7 @@ pubDate: 2023-06-03
 tags: ['blog', '리액트', 'react', 'portal', '모달', 'modal', 'popup', '접근성']
 description: 리액트에서 팝업을 다루는 방법. 그것은 포털을 여는 것!
 categories: react
+heroImage: https://live.staticflickr.com/65535/53786731980_9e364eb565_o.png
 ---
 
 맞다. 다. 나는 지금 리액트를 공부하는 중이다. 우연한 기회로 원하던 프로젝트에도 참가하고 있다. 프론트앤드는 언감생심. 일단은 퍼블리싱 파트로 프로젝트에 참여하고 있는데 이전 작업자들이 만들어 놓은 소스를 분석하는 것도 힘겹다. 그래도 재미는 있다.
