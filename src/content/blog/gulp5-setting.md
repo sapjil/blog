@@ -24,15 +24,13 @@ categories: gulp
 heroImage: 'https://live.staticflickr.com/65535/53784308163_917bd2a5ff_o.png'
 ---
 
-<!-- <img src="https://live.staticflickr.com/65535/53784308163_f10aa8426f_o.png" width="1024" height="640" alt="title_gulp"/> -->
-
 ## 간만의 Gulp 업데이트
 
 최근 몇 년간 VSCODE 확장툴이 잘 나와서 굳이 Gulp까지 사용하지 않아도 풀리는 경우가 많았기에 실제 프로젝트에서 활용하기보다는 지적호기심을 채우는 목적으로 Gulp 설정을 작업하고 있는 중이지만, 실용성 위주로 최대한 자동화를 목적으로 하고 있다.
 
 최근 프로젝트가 연이어 리액트를 사용했기 때문에 한동안 Gulp를 제대로 들여다보지 않고 있었다. 지금 참여 중인 프로젝트에서 시작하자마자 약 2주 정도 달려서 급한 불은 일단락되었기에 언제 또 사용하게 될지 모를 Gulp를 정비하기 위해 프로젝트를 열어봤는데 그 사이 **Gulp가 5로 업데이트** 되어있었다. 그래서, 그동안 image 압축을 적용시키지 못하고 있었던 **imagemin** 적용과 여기저기서 많이 사용되고 있는 **tailwind**도 함께 적용해 보기로 했다.
 
-이번에 가장 큰 변화는 `const` 에서 `import` 형식으로 바뀐 게 가장 큰 차이점이라 생각된다.
+이번에 가장 큰 변화는 `const` 에서 `import` 형식으로 바뀐 게 가장 큰 차이점이라 생각된다. 즉 CommonJS 모듈에서 ECMAScript 모듈 형식으로 바뀐상태임으로 package.json에서도 `{"type":"module"}`속성을 추가해 두어야 한다.
 
 ```js
 // "gulp": "^4.0.2",
