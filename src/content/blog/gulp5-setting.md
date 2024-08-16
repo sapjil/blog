@@ -1,6 +1,7 @@
 ---
 title: Nunjucks + beautify + tailwind + imagemin를 적용한 Gulp 5 설정 관련 기록
 pubDate: 2024-06-11
+updatedDate: 2024-08-16
 tags:
   [
     'Gulp',
@@ -85,6 +86,8 @@ HTML에 직접적으로 클래스명을 길게 작성하는 방식은 호불호�
 
 Gulp의 설정에서 하기 코드처럼 njk, css를 동시에 바라보면서 html과 scss를 순차적으로 랜더링 하고 브라우저를 리로드 시켜주면 해결되는 문제였다. 조금 머리를 식히고 바라보니 너무 가까운 곳에 답이 있었다는.. 머리 나쁘면 고생한다더니..
 
+tailwind는 csscomb와의 궁합 문제가 있었는데 단순히 선언 순서를 바꾸는 방법으로 해결되었다. 이 문제로 허비한 시간이...
+
 ```js
 gulp.watch(
   [paths_src.njk, paths_src.css],
@@ -119,7 +122,7 @@ imagemin도 버전문제인지 Gulp4에서는 답을 찾지 못해 방치하고 
 큰 틀에서는 일단 기능적용은 일단락되었지만 현시점, 2가지 과제가 남은 것 같다.
 
 - 폐쇄망 프로젝트에서도 사용가능하도록 offline 패키지 작업. 기존 작업물은 잘 동작하는데 새로 작업한 것들이 동작하질 않고 있다.
-- 그동안 잘 동작하던 csscomb와 tailwind를 설치하니까 충돌하면서 프로세스가 종료되어 버린다. csscomb와 stylelint의 문제인지 tailwind와의 문제인지는 좀 더 만져봐야 알 수 있을 것 같다.
+- ~~그동안 잘 동작하던 csscomb와 tailwind를 설치하니까 충돌하면서 프로세스가 종료되어 버린다. csscomb와 stylelint의 문제인지 tailwind와의 문제인지는 좀 더 만져봐야 알 수 있을 것 같다.~~
 
 ## 참고
 
