@@ -96,6 +96,9 @@ p {
     &::before {
       content: '# ';
     }
+    + h3 {
+      margin-top: 1.5rem;
+    }
   }
   .gist,
   pre,
@@ -380,4 +383,20 @@ details {
   .gist-meta {
     filter: grayscale(10);
   }
+}
+
+kbd {
+  background-color: #222;
+  color: #ccc;
+  font-size: 1.125rem;
+  line-height: 1;
+  text-align: center;
+  position: relative;
+  min-width: 0.75em;
+  font-weight: bold;
+  top: -1px;
+  margin-left: 0.15rem;
+  margin-right: 0.15rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
 }
