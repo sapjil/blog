@@ -22,7 +22,7 @@ There is no test suite in this repo. Both `yarn.lock` and `package-lock.json` ar
 
 **Routing**: `src/pages/index.astro` fetches all posts via `getCollection('blog')`, sorts by `pubDate` descending, and lists them. `src/pages/[...slug].astro` is the single dynamic route rendering every post — it generates paths with `getStaticPaths()` and wraps rendered content in the `Base` layout. `src/pages/rss.xml.js` generates the RSS feed via `@astrojs/rss`.
 
-**Layouts**: `src/layouts/Base.astro` is the layout actually used by both pages above. `src/layouts/Base2.astro` and `src/layouts/BlogPost.astro` are near-duplicate variants (differing in whether they render `categories`/`tags` and the buymeacoffee banner) that aren't referenced by any current page — don't assume they're live without checking.
+**Layouts**: `src/layouts/Base.astro` is used by `src/pages/index.astro` and `src/pages/[...slug].astro`; `src/layouts/Base2.astro` is used only by `src/pages/about.astro`. `src/layouts/BlogPost.astro` is a near-duplicate that no page references. Base/Base2/BlogPost differ mainly in whether they render `categories`/`tags` and the buymeacoffee banner — check imports before assuming a layout is live.
 
 **Shared components** (`src/components/`): `Header`, `Footer`, `BaseHead` (meta/SEO tags), `Analytics`, `FormattedDate`. Site-wide constants (`SITE_TITLE`, `SITE_DESCRIPTION`) live in `src/consts.ts`.
 
