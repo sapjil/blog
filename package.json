@@ -15,12 +15,12 @@
     "@astrojs/mdx": "^1.1.3",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.3",
-    "astro": "^3.4.1",
-    "markuplint": "^3.14.0"
+    "astro": "^3.4.1"
   },
   "devDependencies": {
     "@astrojs/partytown": "^2.0.2",
     "@markuplint/astro-parser": "^3.11.0",
+    "markuplint": "^3.14.0",
     "sass": "^1.69.5"
   }
 }
